@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Git_SYP_25_05_2022" />
+        <module name="hello-world" />
       </profile>
     </annotationProcessing>
   </component>
